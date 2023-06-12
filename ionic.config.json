@@ -1,0 +1,7 @@
+{
+  "name": "leccionuno",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
